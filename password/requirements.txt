@@ -1,2 +1,0 @@
-Django==2.1.6
-pycryptodomex==3.4.7
